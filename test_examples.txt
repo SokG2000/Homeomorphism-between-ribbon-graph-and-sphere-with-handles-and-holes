@@ -1,0 +1,30 @@
+Input:
+1
+5
+10 1 2 3 4 2 4 1 5 5 3
+Output:
+The ribbon graph is homeomorphous to a sphere with 2 handles and 2 holes
+
+Input:
+5
+9
+3 6 2 7
+4 7 4 3 8
+4 8 2 1 9
+3 5 9 3
+4 5 1 4 6
+Output:
+The ribbon graph is homeomorphous to a sphere with 2 handles and 2 holes
+
+Input:
+7
+15
+6 1 2 3 4 5 6
+3 7 1 12
+5 13 14 8 2 7
+3 8 9 3
+5 9 14 15 10 4
+3 11 5 10
+5 13 12 6 11 15
+Output:
+The ribbon graph is homeomorphous to a sphere with 0 handles and 10 holes
